@@ -15,3 +15,15 @@
 *.exe
 *.out
 *.app
+
+*.log
+*.cache
+*.swp
+Makefile
+configure
+*.bin
+*.gz
+*.pc
+*.status
+build-aux
+
